@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvCourseStructure"
+        android:layout_width="wrap_content"
+        android:layout_height="27dp"
+        android:text="DMSD Course Structure" />
+
+    <TextView
+        android:id="@+id/tvy1"
+        android:layout_width="wrap_content"
+        android:layout_height="33dp"
+        android:text="Year 1" />
+
+    <TextView
+        android:id="@+id/tvy2"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="Year 2" />
+
+    <TextView
+        android:id="@+id/tvy2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Year 3" />
+
+</LinearLayout>
